@@ -70,9 +70,15 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 
 ### Graduation Thesis RESEARCH FACTORS AFFECTING THE INTENSION OF RE-SHOPPING ON THE TIKI E-commerce floor of HO CHI MINH CITY consumers.
-**Description**: 
+**Description**:
+* Hypothesize the influencing factors based on previous studies
+* Qualitative and quantitative interviews to collect analytical data
+* Find out the accepted and rejected hypotheses
+* Recommendations for the following studies
 
 **Slide**: [Slide](https://drive.google.com/file/d/1796_IcpUkH-sCo9-DOcNKBaTnMsH7f4s/view?usp=drive_link)
+
+**Full thesis**: [Thesis](https://github.com/hothinga532/hothinga-portfolio/blob/f828875bebf5553d64b995c0e89bc7b0c2db1727/Thesis/86-CQ_1813179_H%E1%BB%93%20Th%E1%BB%8B%20Nga.pdf)
 
 **Skill**: qualitative preliminary interview, online survey, data cleaning, data analysis, descriptive statistics
 
