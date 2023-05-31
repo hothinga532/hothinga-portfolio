@@ -50,6 +50,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 **Slide**: [Analysis of Ecommerce business situation X](https://drive.google.com/file/d/1Dl0eHgcAQ4mnYmX-KBdgdNMdkQkZ0FSz/view?usp=sharing)
 
+**Repo**: [Analysis of Ecommerce business situation X](https://github.com/hothinga532/hothinga-portfolio/tree/a249faa2dd7e5be9fa8564a68323a1bdce8e4e1d/Analysis-of-Ecommerce-business-situation-X)
+
 **Datasetlink**: [Dataset](https://drive.google.com/drive/folders/1aSKL_b8NU5U3pWt0y2VWspUXNY2qZG1q?usp=sharing)
 
 **Skill**: Query data, data cleaning, data analysis, descriptive statistics, data visualization.
