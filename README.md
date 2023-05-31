@@ -9,7 +9,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 * Email: hothinga532@gmail.com
 * Phone: +84 869 003 713
 * LinkedIn:  
-* Github:
+* Github: [Hothinga532](https://github.com/hothinga532)
 
 
 ## Table of contents
