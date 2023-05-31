@@ -1,4 +1,4 @@
-# Ho Thi Nga - Data Analysis Portfolio
+# Ho Thi Nga - Portfolio
 ## About
 My name is Ho Thi Nga, I just graduated from HCMUT with a major in business administration. I have acquired skills in SQL, Python, and Excel, which allow me to work with data effectively. Eager to turn complex data into meaningful insights, I am trying to develop proficiency in data cleaning, statistical modeling, and data visualization. Find trends and patterns in the data and make possible recommendations based on my findings.
 
