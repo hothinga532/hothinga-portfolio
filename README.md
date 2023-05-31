@@ -8,7 +8,6 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Contacts
 * Email: hothinga532@gmail.com
 * Phone: +84 869 003 713
-* LinkedIn:  
 * Github: [Hothinga532](https://github.com/hothinga532)
 
 
@@ -52,7 +51,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 **Repo**: [Analysis of Ecommerce business situation X](https://github.com/hothinga532/hothinga-portfolio/tree/a249faa2dd7e5be9fa8564a68323a1bdce8e4e1d/Analysis-of-Ecommerce-business-situation-X)
 
-**Datasetlink**: [Dataset](https://drive.google.com/drive/folders/1aSKL_b8NU5U3pWt0y2VWspUXNY2qZG1q?usp=sharing)
+[**Dataset**](https://drive.google.com/drive/folders/1aSKL_b8NU5U3pWt0y2VWspUXNY2qZG1q?usp=sharing)
 
 **Skill**: Query data, data cleaning, data analysis, descriptive statistics, data visualization.
 
@@ -76,9 +75,9 @@ This repository serves to showcase my skills and as a platform to share my proje
 * Find out the accepted and rejected hypotheses
 * Recommendations for the following studies
 
-**Slide**: [Slide](https://drive.google.com/file/d/1796_IcpUkH-sCo9-DOcNKBaTnMsH7f4s/view?usp=drive_link)
+[**Slide**](https://drive.google.com/file/d/1796_IcpUkH-sCo9-DOcNKBaTnMsH7f4s/view?usp=drive_link)
 
-**Full thesis**: [Thesis](https://github.com/hothinga532/hothinga-portfolio/blob/f828875bebf5553d64b995c0e89bc7b0c2db1727/Thesis/86-CQ_1813179_H%E1%BB%93%20Th%E1%BB%8B%20Nga.pdf)
+[**Full Thesis**](https://github.com/hothinga532/hothinga-portfolio/blob/f828875bebf5553d64b995c0e89bc7b0c2db1727/Thesis/86-CQ_1813179_H%E1%BB%93%20Th%E1%BB%8B%20Nga.pdf)
 
 **Skill**: qualitative preliminary interview, online survey, data cleaning, data analysis, descriptive statistics
 
