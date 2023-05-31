@@ -94,3 +94,5 @@ This repository serves to showcase my skills and as a platform to share my proje
 ### Udemy
 - [Useful Excel for Beginners](https://www.udemy.com/course/useful-excel-for-beginners/?src=sac&kw=useful+excel+for)
 - [Microsoft Excel - Basic Data Visualization in Excel](https://www.udemy.com/course/create-well-designed-excel-graphs/)
+### Other
+- [Innovation and Entrepreneurship Training Program for Students](https://drive.google.com/file/d/14jdek0Sx5WAEz-fZPMs3UbIyS1dVGuAq/view?usp=sharing)
