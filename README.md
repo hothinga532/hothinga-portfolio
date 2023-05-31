@@ -32,7 +32,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 **Skill**: Query data, data cleaning, data analysis, descriptive statistics, data visualization.
 
-**Technology**: SQL, PowerPI
+**Technology**: SQL, PowerPI, POWERPOINT
 
 **Problem**
 
@@ -56,7 +56,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 **Skill**: Query data, data cleaning, data analysis, descriptive statistics, data visualization.
 
-**Technology**: SQL, Python, PowerPI
+**Technology**: SQL, Python, PowerPI, POWERPOINT
 
 **Problem**
 
@@ -74,11 +74,11 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 **Slide**: [Slide](https://drive.google.com/file/d/1796_IcpUkH-sCo9-DOcNKBaTnMsH7f4s/view?usp=drive_link)
 
-**Skill**: 
+**Skill**: qualitative preliminary interview, online survey, data cleaning, data analysis, descriptive statistics
 
-**Technology**: 
+**Technology**: AMOS, SPSS, EXCEL, WORD, POWERPOINT
 
-**Result**: 
+**Result**: Discover the elements impacting the likelihood of repurchasing and suggest improvements based on the three most powerful influencing factors.
 
 
 ## Certificates
