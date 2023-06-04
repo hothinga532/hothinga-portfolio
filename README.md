@@ -19,6 +19,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Analysis of Ecommerce business situation X](#analysis-of-ecommerce-business-situation-x)
 - [Certificates](#certificates)
   + [DataCamp](#datacamp)
+  + [Google](#google)
+  + [NielsenIQ](#nielseniq)
   + [Udemy](#udemy)
   + [MindX](#mindx)
 
