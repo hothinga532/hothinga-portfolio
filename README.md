@@ -20,7 +20,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Certificates](#certificates)
   + [DataCamp](#datacamp)
   + [Google](#google)
-  + [NielsenIQ](#nielseniq)
+  + [Tomorrow Marketer x NielsenIQ](#tomorrow-marketer-x-nielseniq)
   + [Udemy](#udemy)
   + [MindX](#mindx)
 
@@ -95,7 +95,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Introduction to Python](https://drive.google.com/file/d/1O-t6JDVMRZUvjeHOi_AOpzrmh0BpFBBW/view?usp=sharing)
 ### Google
 - [The Fundamentals of Digital Marketing](https://drive.google.com/file/d/13dgIiaBo4idQnK0gD8d9kbhDYeLgDyGT/view?usp=sharing)
-### NielsenIQ
+### Tomorrow Marketer x NielsenIQ
 - [Data Analysis Training Camp 2023](https://drive.google.com/file/d/1ZjwqHPP6pW4I4rlyJCF-QwffO5tH8AVJ/view?usp=drive_link)
 ### MindX
 - [Data for Everyone](https://mindx.edu.vn/course/khoa-hoc-data-analyst)
