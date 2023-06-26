@@ -15,6 +15,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Contacs](#contacts)
 - [Projects](#projects)
+  	+ [Analyze International Debt Statistics](https://github.com/hothinga532/Analyze-International-Debt-Statistics)
 	+ [Analysis of human resources situation of Advantureworks](#analysis-of-human-resources-situation-of-advantureworks)
 	+ [Analysis of Ecommerce business situation X](#analysis-of-ecommerce-business-situation-x)
 - [Certificates](#certificates)
