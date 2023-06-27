@@ -18,8 +18,8 @@ This repository serves to showcase my skills and as a platform to share my proje
   	+ [Analyze International Debt Statistics](https://github.com/hothinga532/Analyze-International-Debt-Statistics)
 	+ [Analysis of human resources situation of Advantureworks](#analysis-of-human-resources-situation-of-advantureworks)
 	+ [Analysis of Ecommerce business situation X](#analysis-of-ecommerce-business-situation-x)
- 	+ [Analysis of Profiles OKCupid Dating App Users](#analysis-of-Profiles-OKCupid-Dating-App-Users)
-    	+ [Graduation Thesis RESEARCH FACTORS AFFECTING THE INTENSION OF RE-SHOPPING ON THE TIKI E-commerce floor of HO CHI MINH CITY consumers]
+ 	+ [Analysis of Profiles OKCupid Dating App Users](#analysis-of-profiles-okcupid-dating-app-users)
+	+ [Graduation Thesis RESEARCH FACTORS AFFECTING THE INTENSION OF RE-SHOPPING ON THE TIKI E-commerce floor of HO CHI MINH CITY consumers](#graduation-thesis-research-factors-affecting-the-intension-of-re-shopping-on-the-tiki-e-commerce-floor-of-ho-chi-minh-city-consumers)
 - [Certificates](#certificates)
   + [DataCamp](#datacamp)
   + [Google](#google)
@@ -73,7 +73,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 **Result**: Give 3 suggestions to improve company revenue.
 
 
-### Graduation Thesis RESEARCH FACTORS AFFECTING THE INTENSION OF RE-SHOPPING ON THE TIKI E-commerce floor of HO CHI MINH CITY consumers.
+### Graduation Thesis RESEARCH FACTORS AFFECTING THE INTENSION OF RE-SHOPPING ON THE TIKI E-commerce floor of HO CHI MINH CITY consumers
 **Description**:
 * Hypothesize the influencing factors based on previous studies
 * Qualitative and quantitative interviews to collect analytical data
