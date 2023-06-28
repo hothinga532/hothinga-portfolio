@@ -19,7 +19,6 @@ This repository serves to showcase my skills and as a platform to share my proje
   	+ [Analyze International Debt Statistics](https://github.com/hothinga532/Analyze-International-Debt-Statistics)
 	+ [Analysis of human resources situation of Advantureworks](#analysis-of-human-resources-situation-of-advantureworks)
 	+ [Analysis of Ecommerce business situation X](#analysis-of-ecommerce-business-situation-x)
- 	+ [Analysis of Profiles OKCupid Dating App Users](#okcupid-dating-app-analysis)
 	+ [Graduation Thesis RESEARCH FACTORS AFFECTING THE INTENSION OF RE-SHOPPING ON THE TIKI E-commerce floor of HO CHI MINH CITY consumers](#graduation-thesis-research-factors-affecting-the-intension-of-re-shopping-on-the-tiki-e-commerce-floor-of-ho-chi-minh-city-consumers)
 - [Certificates](#certificates)
   + [DataCamp](#datacamp)
