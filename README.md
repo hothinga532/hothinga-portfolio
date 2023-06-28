@@ -15,10 +15,11 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Contacs](#contacts)
 - [Projects](#projects)
+ 	+ [Analysis of Profiles OKCupid Dating App Users](#okcupid-dating-app-analysis)
   	+ [Analyze International Debt Statistics](https://github.com/hothinga532/Analyze-International-Debt-Statistics)
 	+ [Analysis of human resources situation of Advantureworks](#analysis-of-human-resources-situation-of-advantureworks)
 	+ [Analysis of Ecommerce business situation X](#analysis-of-ecommerce-business-situation-x)
- 	+ [Analysis of Profiles OKCupid Dating App Users](#analysis-of-profiles-okcupid-dating-app-users)
+ 	+ [Analysis of Profiles OKCupid Dating App Users](#okcupid-dating-app-analysis)
 	+ [Graduation Thesis RESEARCH FACTORS AFFECTING THE INTENSION OF RE-SHOPPING ON THE TIKI E-commerce floor of HO CHI MINH CITY consumers](#graduation-thesis-research-factors-affecting-the-intension-of-re-shopping-on-the-tiki-e-commerce-floor-of-ho-chi-minh-city-consumers)
 - [Certificates](#certificates)
   + [DataCamp](#datacamp)
@@ -29,6 +30,28 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 
 ## Projects
+#### OkCupid Dating App Analysis
+**Data**
+OkCupid is a mobile dating app. It sets itself apart from other dating apps by making use of a pre computed compatibility score, calculated by optional questions the users may choose to answer.
+In this dataset, there are 60k records containing structured information such as age, sex, orientation as well as text data from open ended descriptions.
+
+Reference: 
+
+  Okcupid-profiles: https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
+  
+  OkCupid Dating App - Google Play Store Reviews: https://www.kaggle.com/datasets/shivkumarganesh/okcupid-google-play-store-reviews
+
+**Skills:** 
+data cleaning, data analysis, descriptive statistics, data visualization.
+
+**Technology:** 
+Python, Pandas, Numpy, Matplotlib, nltk, Power BI
+
+**Results:** 
+User profiles statistics and user reviews about the app. Give subjective opinions to improve the application
+
+Full project: [OkCupid Dating App Analysis](https://github.com/hothinga532/OkCupid-Analyst)
+
 ### Analysis of human resources situation of Advantureworks
 **Description**: AdventureWorks is a sample database of a bicycle manufacturer (Adventure Works Cycles). Includes information related to Production, Sales, Purchasing, Product Management, Contact Management and Personnel. This project will analyze the company's personnel data in order to offer realistic adjustments to the human resources division and apply the criteria to choose more qualified candidates.
 
