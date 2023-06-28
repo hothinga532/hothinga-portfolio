@@ -93,9 +93,9 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Certificates
 ### DataCamp
-- [Introduction to Data Visualization with Seaborn](https://drive.google.com/file/d/1W2Uy6g1mZopgpwrXAq3l9dUSJ4Zi2nkp/view?usp=sharing)
-- [Introduction to Power BI](https://drive.google.com/file/d/1WKRzD_mn1mkWg8kfqJJ-l4-xnmdUIy8T/view?usp=sharing)
-- [Introduction to Python](https://drive.google.com/file/d/1O-t6JDVMRZUvjeHOi_AOpzrmh0BpFBBW/view?usp=sharing)
+- [Datacamp: Intermediate SQL Queries](https://drive.google.com/file/d/1QsIQOSVT9vQBKy4Q7FwMPQt8TBUDoE-I/view?usp=sharing)
+- [Datacamp: Intermediate Spreadsheets](https://drive.google.com/file/d/1Yn08oeoP_AIBliez7u5jt6HPZq90Gz7Z/view?usp=sharing)
+- [Datacamp: Data Skills for Business](https://drive.google.com/file/d/1V34H-NeMaH46x3Ve1DtKiyu-2KyPnUR4/view?usp=sharing)
 ### Google
 - [The Fundamentals of Digital Marketing](https://drive.google.com/file/d/13dgIiaBo4idQnK0gD8d9kbhDYeLgDyGT/view?usp=sharing)
 ### Tomorrow Marketer x NielsenIQ
